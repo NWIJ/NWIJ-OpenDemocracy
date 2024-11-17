@@ -26,15 +26,17 @@ Dieses Repository dient zur Organisation unserer Projekte, Aktionen und Diskussi
 ### **Repository-Struktur:**
 In unserem gemeinsamen NWIJ-OpenDemocracy Repository findest Du eine klare Struktur, die alle zentralen Inhalte, Herausforderungen, Strategien und Umsetzungen unserer Initiative im Detail abbildet:
 
-NWIJ-OpenDemocracy/
-├── README.md
-├── 0_Praeambel/[Praeambel.md](0_Praeambel/Praeambel.md)
-
 ```text
 NWIJ-OpenDemocracy/
 ├── README.md
+├── README.md
 ├── 0_Praeambel/
 │   └── Praeambel.md
+```
+├── [Praeambel.md](0_Praeambel/Praeambel.md)
+
+```text
+
 ├── 1_Herausforderungen/
 │   ├── Herausforderungen.md
 │   ├── Politische_Herausforderungen.md
