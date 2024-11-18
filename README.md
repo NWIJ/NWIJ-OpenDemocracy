@@ -29,15 +29,13 @@ In unserem gemeinsamen NWIJ-OpenDemocracy Repository findest Du eine klare Struk
 ```text
 NWIJ-OpenDemocracy/
 ├── README.md
-├── README.md
 ├── 0_Praeambel/
 │   └── Praeambel.md
 ```
 ├── [Praeambel.md](0_Praeambel/Praeambel.md)
-
+│
+├── [1_Herausforderungen.md](1_Herausforderungen/Herausforderungen.md)
 ```text
-
-├── 1_Herausforderungen/
 │   ├── Herausforderungen.md
 │   ├── Politische_Herausforderungen.md
 │   ├── Gesellschaftliche_Herausforderungen.md
