@@ -33,7 +33,9 @@ NWIJ-OpenDemocracy/
 │   └── Praeambel.md
 ```
 ├── [Praeambel.md](0_Praeambel/Praeambel.md)
+```text
 │
+```
 ├── [1_Herausforderungen.md](1_Herausforderungen/Herausforderungen.md)
 ```text
 │   ├── Herausforderungen.md
