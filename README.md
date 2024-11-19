@@ -23,6 +23,25 @@ Dieses Repository dient zur Organisation unserer Projekte, Aktionen und Diskussi
 
 ---
 
+## [Praeambel.md](0_Praeambel/Praeambel.md)
+Eine grundlegende Einführung in die Initiative, ihre Werte und Vision.
+
+## [1_Herausforderungen.md](1_Herausforderungen/Herausforderungen.md)
+### 1.1 Politische Herausforderungen: 
+Beschreibung der politischen Unsicherheiten, des Populismus und der gesellschaftlichen Fragmentierung.
+Gesellschaftliche Herausforderungen: Diskussion über gesellschaftliche Spaltung und die Rolle von Desinformation.
+
+### 1.2 Technologische Herausforderungen: 
+Analyse der Chancen und Risiken neuer Technologien.
+
+### 1.3 Ökologische Herausforderungen: 
+Bedeutung von Nachhaltigkeit und Umweltschutz.
+
+### 1.4 Demokratisierung: 
+Ziele und Maßnahmen zur Wiederbelebung demokratischer Werte.
+
+---
+
 ### **Repository-Struktur:**
 In unserem gemeinsamen NWIJ-OpenDemocracy Repository findest Du eine klare Struktur, die alle zentralen Inhalte, Herausforderungen, Strategien und Umsetzungen unserer Initiative im Detail abbildet:
 
@@ -31,13 +50,7 @@ NWIJ-OpenDemocracy/
 ├── README.md
 ├── 0_Praeambel/
 │   └── Praeambel.md
-```
-├── [Praeambel.md](0_Praeambel/Praeambel.md)
-```text
-│
-```
-├── [1_Herausforderungen.md](1_Herausforderungen/Herausforderungen.md)
-```text
+├── 1_Herausforderungen/
 │   ├── Herausforderungen.md
 │   ├── Politische_Herausforderungen.md
 │   ├── Gesellschaftliche_Herausforderungen.md
