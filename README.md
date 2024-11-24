@@ -50,6 +50,13 @@ Definition der langfristigen Ziele und der zentralen Vision der Initiative.
 ### 3.4. Nachhaltigkeit als Leitprinzip
 ### 3.5. Demokratische Werte stärken
 
+## [**4. Stärkung von Gemeinschaften*](4_Staerkung_von_Gemeinschaften/Staerkung_von_Gemeinschaften.md)
+### 4.1 Community-Building
+### 4.2 Interkulturelle Projekte
+### 4.3 Flashmobs für Demokratie
+### 4.4 Social Media Kampagnen
+### 4.5 Digitale Aktionen
+
 ---
 
 ### **Repository-Struktur:**
