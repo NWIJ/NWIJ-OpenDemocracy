@@ -40,7 +40,7 @@ Bedeutung von Nachhaltigkeit und Umweltschutz.
 ### 1.4 Demokratisierung: 
 Ziele und Maßnahmen zur Wiederbelebung demokratischer Werte.
 
-## [**2. Mission & Vision**] (2_Mission+Vision/Mission+Vision.md): 
+## [**2. Mission & Vision**](2_Mission+Vision/Mission+Vision.md): 
 Definition der langfristigen Ziele und der zentralen Vision der Initiative.
 
 
