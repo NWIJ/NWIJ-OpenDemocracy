@@ -63,6 +63,9 @@ Unsere Maßnahmen sind die praktischen Instrumente, mit denen wir unsere Strateg
 ### **12. Aktionsplanung**
 - **Koordination:** Detaillierte Planung und Koordination von öffentlichen Aktionen wie Demonstrationen und Flashmobs.
 
+### **13. Stammtische und Lokale Projekte**
+„Stammtische für regelmäßige Treffen und den persönlichen Austauch in lokalen Gruppen, um die Zusammenarbeit vor Ort zu stärken sowie lokale Projekt und Initiativen, die regional umgesetzt werden, um die Werte der Initiative sichtbar zu machen.“
+
 ---
 
 > **„Maßnahmen machen Visionen greifbar. Mit jeder Aktion kommen wir unserer gemeinsamen Zukunft ein Stück näher.“**
