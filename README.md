@@ -50,7 +50,7 @@ Definition der langfristigen Ziele und der zentralen Vision der Initiative.
 ### 3.4. Nachhaltigkeit als Leitprinzip
 ### 3.5. Demokratische Werte stärken
 
-## [**4. Maßnahmen](4_Maßnahmen:Konkrete Schritte zur Verwirklichung/Maßnahmen.md)
+## [**4. Maßnahmen](4_Maßnahmen/Maßnahmen.md)
 ### 4.1 Community-Building
 ### 4.2 Interkulturelle Projekte
 ### 4.3 Flashmobs für Demokratie
