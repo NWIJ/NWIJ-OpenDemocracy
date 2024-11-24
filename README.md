@@ -95,13 +95,21 @@ NWIJ-OpenDemocracy/
 │   ├── Gesetzliche_Rahmenbedingungen.md
 │   ├── Integration_Kooperation.md
 │   └── Offenheit_Vielfalt.md
-├── 4_Umsetzung/
+├── 4_Umsetzung_&_Maßnahmen/
+│   ├── Maßnahmen.md
+│   ├── Informationskampagnen.md
+│   ├── Bildungsprogramme.md
+│   ├── Technologieeinsatz.md
+│   ├── Stärkung_von_Gemeinschaften.md
+│   ├── Flashmobs_für_Demokratie.md
+│   ├── Social_Media_Kampagnen.md
+│   ├── Digitale_Aktionen.md
 │   ├── Projekte_und_Initiativen.md
 │   ├── Eventplanung.md
-│   ├── Arbeitsgruppen.md
+│   ├── Regionale_Initiativen.md
+│   ├── Arbeitsgruppen_und_Tribes.md
 │   ├── Community_Aufbau.md
 │   ├── Ressourcen.md
-│   ├── Engagement_und_Ressourcen.md
 │   ├── Kompetenzmanagement.md
 │   └── Aktionsplanung.md
 ├── 5_Diskussion/
