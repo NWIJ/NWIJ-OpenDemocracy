@@ -27,22 +27,28 @@ Dieses Repository dient zur Organisation unserer Projekte, Aktionen und Diskussi
 Eine grundlegende Einführung in die Initiative, ihre Werte und Vision.
 
 ## [**1_Herausforderungen.md**](1_Herausforderungen/Herausforderungen.md)
-### 1.1 Politische Herausforderungen: 
+### 1.1 Politische Herausforderungen 
 Beschreibung der politischen Unsicherheiten, des Populismus und der gesellschaftlichen Fragmentierung.
 Gesellschaftliche Herausforderungen: Diskussion über gesellschaftliche Spaltung und die Rolle von Desinformation.
 
-### 1.2 Technologische Herausforderungen: 
+### 1.2 Technologische Herausforderungen 
 Analyse der Chancen und Risiken neuer Technologien.
 
-### 1.3 Ökologische Herausforderungen: 
+### 1.3 Ökologische Herausforderungen 
 Bedeutung von Nachhaltigkeit und Umweltschutz.
 
-### 1.4 Demokratisierung: 
+### 1.4 Demokratisierung 
 Ziele und Maßnahmen zur Wiederbelebung demokratischer Werte.
 
-## [**2. Mission & Vision**](2_Mission+Vision/Mission+Vision.md): 
+## [**2. Mission & Vision**](2_Mission+Vision/Mission+Vision.md) 
 Definition der langfristigen Ziele und der zentralen Vision der Initiative.
 
+## [**3. Strategie**](3_Strategie/Strategie.md)
+### 3.1 Bekämpfung von Desinformation
+### 3.2. Förderung von Vielfalt und Inklusion
+### 3.3. Zusammenarbeit und Netzwerke
+### 3.4. Nachhaltigkeit als Leitprinzip
+### 3.5. Demokratische Werte stärken
 
 ---
 
