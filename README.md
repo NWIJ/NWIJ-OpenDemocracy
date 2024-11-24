@@ -26,7 +26,7 @@ Dieses Repository dient zur Organisation unserer Projekte, Aktionen und Diskussi
 ## [Praeambel.md](0_Praeambel/Praeambel.md)
 Eine grundlegende Einführung in die Initiative, ihre Werte und Vision.
 
-## [1_Herausforderungen.md](1_Herausforderungen/Herausforderungen.md)
+## [**1_Herausforderungen.md**](1_Herausforderungen/Herausforderungen.md)
 ### 1.1 Politische Herausforderungen: 
 Beschreibung der politischen Unsicherheiten, des Populismus und der gesellschaftlichen Fragmentierung.
 Gesellschaftliche Herausforderungen: Diskussion über gesellschaftliche Spaltung und die Rolle von Desinformation.
@@ -39,6 +39,10 @@ Bedeutung von Nachhaltigkeit und Umweltschutz.
 
 ### 1.4 Demokratisierung: 
 Ziele und Maßnahmen zur Wiederbelebung demokratischer Werte.
+
+## [**2. Mission & Vision**] (2_Mission+Vision/Mission+Vision.md): 
+Definition der langfristigen Ziele und der zentralen Vision der Initiative.
+
 
 ---
 
