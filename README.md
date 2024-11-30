@@ -76,6 +76,20 @@ Definition der langfristigen Ziele und der zentralen Vision der Initiative.
 ### **6.2 Perspektiven und nächste Schritte**
 ### **6.3 Dokumentation und Evaluation**
 
+## [**7. Medien und Öffentlichkeitsarbeit**](7_Medien_und_Öffentlichkeitsarbeit/Medien_und_Öffentlichkeitsarbeit.md)
+
+### **7.1 Pressemitteilungen**
+- Vorlagen und Beispiele für Pressemitteilungen, um das Projekt bekannt zu machen und regelmäßig über Fortschritte zu informieren.
+
+### **7.2 Social Media Strategien**
+- Richtlinien und Hinweise für konsistente Kommunikation auf Social Media, inklusive Hashtags und Formulierungen.
+
+### **7.3 Visuals**
+- Sammlung von Grafiken, Logos und Vorlagen, die für die Öffentlichkeitsarbeit verwendet werden können.
+
+### **7.4 Digitale Kampagnen**
+- Strategien und Pläne für digitale Kampagnen, um die Reichweite der Initiative zu erhöhen und eine größere Community zu erreichen.
+
 ---
 
 ### **Repository-Struktur:**
