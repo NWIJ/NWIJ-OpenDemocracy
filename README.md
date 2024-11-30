@@ -70,7 +70,11 @@ Definition der langfristigen Ziele und der zentralen Vision der Initiative.
 ### 5.3 Diskussionsthemen
 ### 5.4 Populismus und Kommunikation
 
+## [**6. Ergebnisse und Perspektiven**](6_Ergebnisse_und_Perspektiven/Ergebnisse_und_Perspektiven.md)
 
+### **6.1 Konsolidierte Ergebnisse**
+### **6.2 Perspektiven und nächste Schritte**
+### **6.3 Dokumentation und Evaluation**
 
 ---
 
