@@ -90,6 +90,18 @@ Definition der langfristigen Ziele und der zentralen Vision der Initiative.
 ### **7.4 Digitale Kampagnen**
 - Strategien und Pläne für digitale Kampagnen, um die Reichweite der Initiative zu erhöhen und eine größere Community zu erreichen.
 
+## [**8. Protokolle und Dokumentation**](8_Protokolle_und_Dokumentation/Protokolle_und_Dokumentation.md)
+
+### **8.1 Meeting-Protokolle**
+- Protokolle und Notizen von Sitzungen, um die Entscheidungsprozesse transparent zu dokumentieren.
+
+### **8.2 Projektfortschritt**
+- Dokumentation des Fortschritts aller aktiven Projekte und Initiativen, einschließlich Meilensteinen und Herausforderungen.
+
+### **8.3 Netzwerkplanung**
+- Informationen zu Kontakten und Kooperationen mit anderen Initiativen und Organisationen, um eine starke Netzwerkarbeit aufzubauen.
+
+
 ---
 
 ### **Repository-Struktur:**
