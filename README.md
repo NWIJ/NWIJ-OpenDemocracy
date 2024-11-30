@@ -121,8 +121,8 @@ NWIJ-OpenDemocracy/
 │   ├── Verbot_vs_Freiheit.md
 │   ├── Diskussionsthemen.md
 │   └── Populismus_und_Kommunikation.md
-├── 6_Schlussfolgerung/
-│   └── Schlussfolgerungen.md
+├── 6_Ergebnisse_und_Perspektiven/
+│   └── 6_Ergebnisse_und_Perspektiven.md
 ├── 7_Medien_und_Öffentlichkeitsarbeit/
 │   ├── Pressemitteilungen.md
 │   ├── Social_Media_Strategien.md
